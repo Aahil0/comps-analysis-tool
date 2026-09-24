@@ -39,7 +39,7 @@ Free on [Streamlit Community Cloud](https://share.streamlit.io) — connect this
 
 ## Related project
 
-This app is a companion to my [Nifty 50 Multi-Factor Equity Screener](https://github.com/YOUR_GITHUB_USERNAME/nifty50-multi-factor-screener) — that project ranks stocks cross-sectionally on Value/Momentum/Quality/Low-Volatility factors; this one does relative (comps-based) valuation for a single target company. Different quant technique, same domain.
+This app is a companion to my [Nifty 50 Multi-Factor Equity Screener](https://github.com/aahil0/nifty50-multi-factor-screener) — that project ranks stocks cross-sectionally on Value/Momentum/Quality/Low-Volatility factors; this one does relative (comps-based) valuation for a single target company. Different quant technique, same domain.
 
 ## Resume bullet
 
