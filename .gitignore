@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Streamlit secrets -- NEVER commit this file if you ever add one.
+# It's where API keys / credentials go for a Streamlit app, and must
+# stay local-only or be set via Streamlit Cloud's "Secrets" dashboard instead.
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
