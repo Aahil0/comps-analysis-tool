@@ -2,7 +2,7 @@
 
 A live, interactive web app that derives an implied valuation range for any company by benchmarking it against a peer group's trading multiples — the same "comps" workflow used in equity research and investment banking, automated.
 
-**Live app:** https://nifty50-multi-factor-screener-nzfgstw2ej3ovtz3x2mhh5.streamlit.app/
+**Live app:** https://comps-analysis-tool.streamlit.app/
 *(URL kept from the original deployment — see note below)*
 
 ## What it does
@@ -27,7 +27,7 @@ A live, interactive web app that derives an implied valuation range for any comp
 ## Run locally
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/comps-analysis-tool.git
+git clone https://github.com/aahil0/comps-analysis-tool.git
 cd comps-analysis-tool
 pip install -r requirements.txt
 streamlit run app.py
