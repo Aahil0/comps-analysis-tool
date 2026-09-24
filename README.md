@@ -20,6 +20,13 @@ A live, interactive web app that derives an implied valuation range for any comp
 - **Caching**: per-ticker data is cached for 15 minutes to avoid Yahoo Finance rate-limiting under repeated use.
 - **Graceful degradation**: invalid tickers, missing fundamentals, and failed fetches are surfaced to the user with clear messages rather than crashing the app.
 
+
+## Sample Output
+<img width="1056" height="420" alt="football-field-valuation-infosys-limited" src="https://github.com/user-attachments/assets/a958b5c8-7e95-4b82-b62e-113ff01a78b7" />
+
+<img width="1457" height="567" alt="linkedin_post_image2_comps_table" src="https://github.com/user-attachments/assets/440ac99d-8674-4071-9488-4d4d9972d92a" />
+
+
 ## Tech stack
 
 `Python` · `Streamlit` · `yfinance` · `pandas` · `numpy` · `Plotly`
